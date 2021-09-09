@@ -1,0 +1,17 @@
+button{
+   padding: 5px 25px;
+   background-color: rebeccapurple;
+   color: lavenderblush;
+   margin-right: 20px;
+   border: none;
+   border-radius: 15px;
+   font-weight: bold;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.card{
+    border: solid;
+    border-radius: 10px; 
+    border-color: plum;  
+    padding: 10px;
+    margin: 10px;
+}
